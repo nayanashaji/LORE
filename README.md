@@ -1,28 +1,28 @@
 
 
-# [Project Name] 🎯
+# LORE 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Power pixels
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Nayana Shaji Mekkunnel - GECT
+- Member 2: Jany Sabarinath - GECT
+- Member 3: Melita Mariam Mathew - GECT
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+LORE: Your one-stop app for exploring the world’s weirdest folklore, tastiest dishes, and most bizarre traditions. From fire-breathing dragons to fire-breathing chili peppers, we’ve got it all. Why travel when you can snack on knowledge and feast on legends from your couch? Warning: May cause wanderlust and hunger simultaneously!!!
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Ever walked into a new place and felt like you accidentally wandered onto a movie set without a script? No idea about the culture, no clue about the local food, and the internet’s giving you less help than a silent GPS? Yeah, we've all been there.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+A website which is a treasure trove of intriguing stories, customs, and beliefs from around the world.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -32,10 +32,6 @@ For Software:
 - [Libraries used]
 - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
