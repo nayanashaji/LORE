@@ -13,85 +13,48 @@
 - Member 3: Melita Mariam Mathew - GECT
 `
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://lore-theta.vercel.app/
 
 ### Project Description
-LORE: Your one-stop app for exploring the world’s weirdest folklore, tastiest dishes, and most bizarre traditions. From fire-breathing dragons to fire-breathing chili peppers, we’ve got it all. Why travel when you can snack on knowledge and feast on legends from your couch? Warning: May cause wanderlust and hunger simultaneously!!!
+LORE: Your one-stop app for exploring the world’s weirdest folklore, and most bizarre traditions. From fire-breathing dragons to fire-breathing chili peppers, we’ve got it all. Why travel when you can snack on knowledge and feast on legends from your couch? Warning: May cause wanderlust and adrenaline rush simultaneously!!!
 
 ### The Problem statement
-Ever walked into a new place and felt like you accidentally wandered onto a movie set without a script? No idea about the culture, no clue about the local food, and the internet’s giving you less help than a silent GPS? Yeah, we've all been there.
-
+Many cultural stories and folklore remain fragmented and inaccessible, limiting global understanding and appreciation. There’s a need for a centralized, user-friendly platform to preserve and share diverse folklore from around the world.
 ### The Solution
-A website which is a treasure trove of intriguing stories, customs, and beliefs from around the world.
+A website that is a treasure trove of intriguing stories, customs, and beliefs from around the world.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used]- HTML, CSS, JS
+- [Frameworks used]- React
+- [Libraries used]- tailwind
+- [Tools used] - daisy UI, ChatGPT
 
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2025-01-26 093953](https://github.com/user-attachments/assets/fa1b08c1-b625-4542-96d6-66d007a79624)
+Sign-in Page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2025-01-26 101657](https://github.com/user-attachments/assets/2fa1d481-b99b-4e79-938b-e8e4a9c1b295)
+Sign-in Page on entering details
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2025-01-26 094048](https://github.com/user-attachments/assets/6dc06d9c-f551-4f3e-8dbc-49a40f3acf7a)
+Main Page
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://github.com/user-attachments/assets/ac9769aa-e8e3-4af6-8eb6-661bafb5e112
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nayana Shaji: Coding
+- Melita Mariam: Designing and creative works
+- Jany Sabarinath: Idea Co-ordinator
 
 ---
 Made with ❤️ at TinkerHub
